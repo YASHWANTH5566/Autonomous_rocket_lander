@@ -1,4 +1,4 @@
-#🚀 Autonomous Rocket Lander using Deep Q-Network (DQN)
+🚀 Autonomous Rocket Lander using Deep Q-Network (DQN)
 
 An autonomous rocket/lunar lander simulation that uses **Deep Reinforcement Learning (DQN)** to learn how to control a lander and perform a stable autonomous landing.
 
